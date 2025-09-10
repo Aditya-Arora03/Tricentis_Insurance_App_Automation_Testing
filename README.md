@@ -17,7 +17,7 @@ This project automates the end-to-end workflow:
 
 ---
 
-## 🛠️ Tech Stack  
+### 🛠️ Tech Stack  
 - **IDE:** IntelliJ IDEA  
 - **Language:** Java (Core Java, OOP, Collections)  
 - **Automation:** Selenium WebDriver  
@@ -28,7 +28,7 @@ This project automates the end-to-end workflow:
   
 ---
 
-## ⚡ Features  
+### ⚡ Features  
 - ✅ End-to-end automation of insurance workflows.  
 - ✅ **Object-Oriented Design** – separate classes for each insurance type.  
 - ✅ Uses **Selenium WebDriver API** (`WebDriver`, `WebElement`, `By`, `Select`, `Actions`, `WebDriverWait`,`Screenshot API`).  
@@ -38,7 +38,7 @@ This project automates the end-to-end workflow:
 
 ---
 
-## 🚀 Running the Project in IntelliJ IDEA  
+### 🚀 Running the Project in IntelliJ IDEA  
 
 ### 1️⃣ Prerequisites  
 - Install [IntelliJ IDEA](https://www.jetbrains.com/idea/download/)  
