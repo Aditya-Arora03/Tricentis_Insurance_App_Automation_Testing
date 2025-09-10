@@ -71,5 +71,5 @@ This project automates the end-to-end workflow:
 Aditya-Arora03 [Aditya Ajay Arora]
 
 - 📧 Email: [work.aditya.arora@gmail.com](mailto:work.aditya.arora@gmail.com)  
-- 💼 LinkedIn: [linkedin.com/in/aditya-arora](https:linkedin.com/in/aditya-ajay-arora-8800a2222)  
+- 💼 LinkedIn: [linkedin.com/in/aditya-arora](https://www.linkedin.com/in/aditya-ajay-arora-8800a2222/)  
 - 🐙 GitHub: [github.com/Aditya-Arora03](https://github.com/Aditya-Arora03) 
