@@ -40,23 +40,23 @@ This project automates the end-to-end workflow:
 
 ### 🚀 Running the Project in IntelliJ IDEA  
 
-### 1️⃣ Prerequisites  
+#### 1️⃣ Prerequisites  
 - Install [IntelliJ IDEA](https://www.jetbrains.com/idea/download/)  
 - Install [Java JDK 8+](https://www.oracle.com/java/technologies/javase-downloads.html)  
 - Install [Maven](https://maven.apache.org/) (IntelliJ will auto-import `pom.xml`)  
 - Install [Chrome Browser](https://www.google.com/chrome/)  
 - Download [ChromeDriver](https://chromedriver.chromium.org/downloads) and add it to system PATH  
 
-### 2️⃣ Open in IntelliJ  
+#### 2️⃣ Open in IntelliJ  
 1. Open IntelliJ IDEA → **File > Open** → select project root folder.  
 2. IntelliJ will auto-detect `pom.xml` and download dependencies.  
 3. Ensure JDK is configured (`File > Project Structure > SDK`).  
 
-### 3️⃣ Run Tests  
+#### 3️⃣ Run Tests  
 - Run `Main.java`
 - This `Main.java` file will run all the Insurance Pages one-by-one. 
 
-### 📊 Sample Execution Flow
+#### 📊 Sample Execution Flow
 🔹Launches browser and opens Tricentis Vehicle Insurance App.  
 🔹Selects "Automobile Insurance".  
 🔹Enters vehicle details (make, engine performance, manufacture date, seats, fuel type, etc.).  
